@@ -1,0 +1,58 @@
+{
+    "data": {
+        "ranking": {
+            "buckets": [
+                {
+                    "duplicate_postings": 3557,
+                    "median_salary": 214784,
+                    "name": "Physicians",
+                    "posting_intensity": 5.742666666666667,
+                    "total_postings": 4307,
+                    "unique_postings": 750
+                },
+                {
+                    "duplicate_postings": 13382,
+                    "median_salary": 89856,
+                    "name": "Registered / Practical Nursing",
+                    "posting_intensity": 8.56472583380441,
+                    "total_postings": 15151,
+                    "unique_postings": 1769
+                },
+                {
+                    "duplicate_postings": 723,
+                    "median_salary": 67968,
+                    "name": "Truck and Bus Drivers",
+                    "posting_intensity": 3.3099041533546325,
+                    "total_postings": 1036,
+                    "unique_postings": 313
+                },
+                {
+                    "duplicate_postings": 373,
+                    "median_salary": 27008,
+                    "name": "Retail Sales and Service",
+                    "posting_intensity": 2.4236641221374047,
+                    "total_postings": 635,
+                    "unique_postings": 262
+                },
+                {
+                    "duplicate_postings": 1273,
+                    "median_salary": 33408,
+                    "name": "Healthcare Patient Support",
+                    "posting_intensity": 4.487671232876712,
+                    "total_postings": 1638,
+                    "unique_postings": 365
+                }
+            ],
+            "facet": "lot_occupation_group_name",
+            "limit": 5,
+            "rank_by": "unique_postings"
+        },
+        "totals": {
+            "duplicate_postings": 36231,
+            "median_salary": 52160,
+            "posting_intensity": 4.564639905548996,
+            "total_postings": 46395,
+            "unique_postings": 10164
+        }
+    }
+}

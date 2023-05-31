@@ -1,0 +1,24 @@
+{
+  "ariaDesc": "Donut Chart Description",
+  "ariaTitle": "",
+  "data": [
+    { "x": "0 to 2 years", "y": 70 },
+    { "x": "3 to 5 years", "y": 20 },
+    { "x": "5+ years", "y": 10 }
+  ],
+  "height": 275,
+  "legendData": [{ "name": "0 - 2 years" }, { "name": "3 - 5 years" }, { "name": "5+ years" }],
+  "legendPosition": "bottom",
+  "padding": {
+    "bottom": 65,
+    "left": 20,
+    "right": 20,
+    "top": 20
+  },
+  "subTitle": "",
+  "title": "",
+  "width": 300,
+  "innerRadius": "50",
+  "subTitlePosition": "bottom",
+  "colorScale": ["#0e7490", "#0891b2", "#22d3ee"]
+}

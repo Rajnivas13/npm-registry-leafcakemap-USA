@@ -1,0 +1,24 @@
+{
+  "ariaDesc": "Donut Chart Description",
+  "ariaTitle": "",
+  "data": [
+    { "x": "Sub-BA Degree", "y": 35 },
+    { "x": "BA's Degree", "y": 55 },
+    { "x": "Post-Grad Degree", "y": 10 }
+  ],
+  "height": 275,
+  "legendData": [{ "name": "Sub-BA" }, { "name": "BA's" }, { "name": "Post-Grade" }],
+  "legendPosition": "bottom",
+  "padding": {
+    "bottom": 65,
+    "left": 20,
+    "right": 20,
+    "top": 20
+  },
+  "subTitle": "",
+  "title": "",
+  "width": 300,
+  "innerRadius": "50",
+  "subTitlePosition": "bottom",
+  "colorScale": ["#34d399", "#15803d", "#22c55e"]
+}

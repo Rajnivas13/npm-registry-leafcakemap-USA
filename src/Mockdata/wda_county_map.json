@@ -1,0 +1,425 @@
+{"wdas":[
+    {
+      "wda": "Alamo",
+      "counties": [
+        "Atascosa",
+        "Bandera",
+        "Bexar",
+        "Comal",
+        "Frio",
+        "Gillespie",
+        "Guadalupe",
+        "Karnes",
+        "Kendall",
+        "Kerr",
+        "McMullen",
+        "Medina",
+        "Wilson"
+      ],
+      "url": "http://www.workforcesolutionsalamo.org/"
+    },
+    {
+      "wda": "Borderplex",
+      "counties": [
+        "Brewster",
+        "Culberson",
+        "El Paso",
+        "Hudspeth",
+        "Jeff Davis",
+        "Presidio"
+      ],
+      "url": "http://www.borderplexjobs.com/"
+    },
+    {
+      "wda": "Brazos Valley",
+      "counties": [
+        "Brazos",
+        "Burleson",
+        "Grimes",
+        "Leon",
+        "Madison",
+        "Robertson",
+        "Washington"
+      ],
+      "url": "http://bvjobs.org/"
+    },
+    {
+      "wda": "Cameron County",
+      "counties": [
+        "Cameron"
+      ],
+      "url": "http://www.wfscameron.org/"
+    },
+    {
+      "wda": "Capital Area",
+      "counties": [
+        "Travis"
+      ],
+      "url": "http://www.wfscapitalarea.com/"
+    },
+    {
+      "wda": "Central Texas",
+      "counties": [
+        "Bell",
+        "Coryell",
+        "Hamilton",
+        "Lampasas",
+        "Milam",
+        "Mills",
+        "San Saba"
+      ],
+      "url": "https://workforcesolutionsctx.com/"
+    },
+    {
+      "wda": "Coastal Bend",
+      "counties": [
+        "Aransas",
+        "Bee",
+        "Brooks",
+        "Duval",
+        "Jim Wells",
+        "Kenedy",
+        "Kleberg",
+        "Live Oak",
+        "Nueces",
+        "Refugio",
+        "San Patricio"
+      ],
+      "url": "http://www.workforcesolutionscb.org/"
+    },
+    {
+      "wda": "Concho Valley",
+      "counties": [
+        "Coke",
+        "Concho",
+        "Crockett",
+        "Irion",
+        "Kimble",
+        "Mason",
+        "McCulloch",
+        "Menard",
+        "Reagan",
+        "Schleicher",
+        "Sterling",
+        "Sutton",
+        "Tom Green"
+      ],
+      "url": "http://www.cvworkforce.org/"
+    },
+    {
+      "wda": "Deep East Texas",
+      "counties": [
+        "Angelina",
+        "Houston",
+        "Jasper",
+        "Nacogdoches",
+        "Newton",
+        "Polk",
+        "Sabine",
+        "San Augustine",
+        "San Jacinto",
+        "Shelby",
+        "Trinity",
+        "Tyler"
+      ],
+      "url": "http://www.detwork.org/"
+    },
+    {
+      "wda": "East Texas",
+      "counties": [
+        "Anderson",
+        "Camp",
+        "Cherokee",
+        "Gregg",
+        "Harrison",
+        "Henderson",
+        "Marion",
+        "Panola",
+        "Rains",
+        "Rusk",
+        "Smith",
+        "Upshur",
+        "Van Zandt",
+        "Wood"
+      ],
+      "url": "https://www.easttexasworkforce.org/"
+    },
+    {
+      "wda": "Golden Crescent",
+      "counties": [
+        "Calhoun",
+        "DeWitt",
+        "Goliad",
+        "Gonzales",
+        "Jackson",
+        "Lavaca",
+        "Victoria"
+      ],
+      "url": "http://www.gcworkforce.org/"
+    },
+    {
+      "wda": "Greater Dallas",
+      "counties": [
+        "Dallas"
+      ],
+      "url": "http://www.wfsdallas.com/"
+    },
+    {
+      "wda": "Gulf Coast",
+      "counties": [
+        "Austin",
+        "Brazoria",
+        "Chambers",
+        "Colorado",
+        "Fort Bend",
+        "Galveston",
+        "Harris",
+        "Liberty",
+        "Matagorda",
+        "Montgomery",
+        "Walker",
+        "Waller",
+        "Wharton"
+      ],
+      "url": "http://www.wrksolutions.com/"
+    },
+    {
+      "wda": "Heart of Texas",
+      "counties": [
+        "Bosque",
+        "Falls",
+        "Freestone",
+        "Hill",
+        "Limestone",
+        "McLennan"
+      ],
+      "url": "http://www.hotworkforce.com/"
+    },
+    {
+      "wda": "Lower Rio Grande Valley",
+      "counties": [
+        "Hidalgo",
+        "Starr",
+        "Willacy"
+      ],
+      "url": "http://www.wfsolutions.org/"
+    },
+    {
+      "wda": "Middle Rio Grande",
+      "counties": [
+        "Dimmit",
+        "Edwards",
+        "Kinney",
+        "La Salle",
+        "Maverick",
+        "Real",
+        "Uvalde",
+        "Val Verde",
+        "Zavala"
+      ],
+      "url": "https://www.wfsmrg.org/"
+    },
+    {
+      "wda": "North Central",
+      "counties": [
+        "Collin",
+        "Denton",
+        "Ellis",
+        "Erath",
+        "Hood",
+        "Hunt",
+        "Johnson",
+        "Kaufman",
+        "Navarro",
+        "Palo Pinto",
+        "Parker",
+        "Rockwall",
+        "Somervell",
+        "Wise"
+      ],
+      "url": "https://www.dfwjobs.com/"
+    },
+    {
+      "wda": "North Texas",
+      "counties": [
+        "Archer",
+        "Baylor",
+        "Clay",
+        "Cottle",
+        "Foard",
+        "Hardeman",
+        "Jack",
+        "Montague",
+        "Wichita",
+        "Wilbarger",
+        "Young"
+      ],
+      "url": "http://www.ntxworksolutions.org/"
+    },
+    {
+      "wda": "Northeast",
+      "counties": [
+        "Bowie",
+        "Cass",
+        "Delta",
+        "Franklin",
+        "Hopkins",
+        "Lamar",
+        "Morris",
+        "Red River",
+        "Titus"
+      ],
+      "url": "http://www.netxworkforce.org/"
+    },
+    {
+      "wda": "Panhandle",
+      "counties": [
+        "Armstrong",
+        "Briscoe",
+        "Carson",
+        "Castro",
+        "Childress",
+        "Collingsworth",
+        "Dallam",
+        "Deaf Smith",
+        "Donley",
+        "Gray",
+        "Hall",
+        "Hansford",
+        "Hartley",
+        "Hemphill",
+        "Hutchinson",
+        "Lipscomb",
+        "Moore",
+        "Ochiltree",
+        "Oldham",
+        "Parmer",
+        "Potter",
+        "Randall",
+        "Roberts",
+        "Sherman",
+        "Swisher",
+        "Wheeler"
+      ],
+      "url": "http://wspanhandle.com/",
+      "value": 100
+    },
+    {
+      "wda": "Permian Basin",
+      "counties": [
+        "Andrews",
+        "Borden",
+        "Crane",
+        "Dawson",
+        "Ector",
+        "Gaines",
+        "Glasscock",
+        "Howard",
+        "Loving",
+        "Martin",
+        "Midland",
+        "Pecos",
+        "Reeves",
+        "Terrell",
+        "Upton",
+        "Ward",
+        "Winkler"
+      ],
+      "url": "http://www.workforcepb.org/"
+    },
+    {
+      "wda": "Rural Capital Area",
+      "counties": [
+        "Bastrop",
+        "Blanco",
+        "Burnet",
+        "Caldwell",
+        "Fayette",
+        "Hays",
+        "Lee",
+        "Llano",
+        "Williamson"
+      ],
+      "url": "http://www.workforcesolutionsrca.com/"
+    },
+    {
+      "wda": "South Plains",
+      "counties": [
+        "Bailey",
+        "Cochran",
+        "Crosby",
+        "Dickens",
+        "Floyd",
+        "Garza",
+        "Hale",
+        "Hockley",
+        "King",
+        "Lamb",
+        "Lubbock",
+        "Lynn",
+        "Motley",
+        "Terry",
+        "Yoakum"
+      ],
+      "url": "http://workforcesouthplains.org/"
+    },
+    {
+      "wda": "South Texas",
+      "counties": [
+        "Jim Hogg",
+        "Webb",
+        "Zapata"
+      ],
+      "url": "http://southtexasworkforce.org/"
+    },
+    {
+      "wda": "Southeast",
+      "counties": [
+        "Hardin",
+        "Jefferson",
+        "Orange"
+      ],
+      "url": "https://setworks.org/"
+    },
+    {
+      "wda": "Tarrant County",
+      "counties": [
+        "Tarrant"
+      ],
+      "url": "http://www.workforcesolutions.net/"
+    },
+    {
+      "wda": "Texoma",
+      "counties": [
+        "Cooke",
+        "Fannin",
+        "Grayson"
+      ],
+      "url": "http://www.workforcesolutionstexoma.com/"
+    },
+    {
+      "wda": "West Central",
+      "counties": [
+        "Brown",
+        "Callahan",
+        "Coleman",
+        "Comanche",
+        "Eastland",
+        "Fisher",
+        "Haskell",
+        "Jones",
+        "Kent",
+        "Knox",
+        "Mitchell",
+        "Nolan",
+        "Runnels",
+        "Scurry",
+        "Shackelford",
+        "Stephens",
+        "Stonewall",
+        "Taylor",
+        "Throckmorton"
+      ],
+      "url": "http://www.workforcesystem.org/"
+    }
+]}

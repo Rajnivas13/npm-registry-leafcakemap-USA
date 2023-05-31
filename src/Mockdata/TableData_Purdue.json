@@ -1,0 +1,54 @@
+{
+ "Data" : [
+  {
+    "Description": "Planning",
+    "CommonSkills2021": "4,337,574",
+    "CommonSkills2022": "5,774,143"
+  },
+  {
+    "Description": "Leadership",
+    "CommonSkills2021": "6,765,532",
+    "CommonSkills2022": "8,756,430"
+  },
+  {
+    "Description": "Problem Solving",
+    "CommonSkills2021": "5,360,335",
+    "CommonSkills2022": "6,677,937"
+  },
+  {
+    "Description": "Operations",
+    "CommonSkills2021": "7,441,203",
+    "CommonSkills2022": "9,216,516"
+  },
+  {
+    "Description": "Writing",
+    "CommonSkills2021": "5,065,552",
+    "CommonSkills2022": "6,179,201"
+  },
+  {
+    "Description": "Management",
+    "CommonSkills2021": "11,112,783",
+    "CommonSkills2022": "13,238,923"
+  },
+  {
+    "Description": "Communications",
+    "CommonSkills2021": "17,333,527",
+    "CommonSkills2022": "20,185,680"
+  },
+  {
+    "Description": "Customer Service",
+    "CommonSkills2021": "13,562,410",
+    "CommonSkills2022": "15,114,099"
+  },
+  {
+    "Description": "Sales",
+    "CommonSkills2021": "8,393,436",
+    "CommonSkills2022": "9,307,836"
+  },
+  {
+    "Description": "Detail Oriented",
+    "CommonSkills2021": "6,564,067",
+    "CommonSkills2022": "7,079,671"
+  }
+ ]
+}

@@ -1,0 +1,3132 @@
+{
+    "SupplyDemandRatio": [
+        {
+            "name": "New York-Newark-Jersey City, NY-NJ-PA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Los Angeles-Long Beach-Anaheim, CA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Chicago-Naperville-Elgin, IL-IN-WI",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Dallas-Fort Worth-Arlington, TX",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Houston-The Woodlands-Sugar Land, TX",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Atlanta-Sandy Springs-Alpharetta, GA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Miami-Fort Lauderdale-Pompano Beach, FL",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Phoenix-Mesa-Chandler, AZ",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Boston-Cambridge-Newton, MA-NH",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Riverside-San Bernardino-Ontario, CA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "San Francisco-Oakland-Berkeley, CA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Detroit–Warren–Dearborn, MI",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Seattle-Tacoma-Bellevue, WA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "San Diego-Chula Vista-Carlsbad, CA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Tampa-St. Petersburg-Clearwater, FL",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Denver-Aurora-Lakewood, CO",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Baltimore-Columbia-Towson, MD",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "St. Louis, MO-IL",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Charlotte-Concord-Gastonia, NC-SC",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Orlando-Kissimmee-Sanford, FL",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "San Antonio-New Braunfels, TX",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Portland-Vancouver-Hillsboro, OR-WA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Sacramento-Roseville-Folsom, CA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Pittsburgh, PA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Austin-Round Rock-Georgetown, TX",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Las Vegas-Henderson-Paradise, NV",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Cincinnati, OH-KY-IN",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Kansas City, MO-KS",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Columbus, OH",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Indianapolis-Carmel-Anderson, IN",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Cleveland-Elyria, OH",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Nashville-Davidson–Murfreesboro–Franklin, TN",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "San Jose-Sunnyvale-Santa Clara, CA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Providence-Warwick, RI-MA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Jacksonville, FL",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Milwaukee-Waukesha, WI",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Raleigh-Cary, NC",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Oklahoma City, OK",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Memphis, TN-MS-AR",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Richmond, VA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Louisville/Jefferson County, KY-IN",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Salt Lake City, UT",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "New Orleans-Metairie, LA",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Hartford-East Hartford-Middletown, CT",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Buffalo-Niagara Falls, NY",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Birmingham-Hoover, AL",
+            "value": "5000",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "14322",
+            "workersinrole": "23422",
+            "averagesalary": "$125k"
+        },
+        {
+            "name": "Grand Rapids-Kentwood, MI",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Rochester, NY",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Tucson, AZ",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Tulsa, OK",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Fresno, CA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Urban Honolulu, HI",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Worcester, MA-CT",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Omaha-Council Bluffs, NE-IA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Bridgeport-Stamford-Norwalk, CT",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Greenville-Anderson, SC",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Albuquerque, NM",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Bakersfield, CA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Albany-Schenectady-Troy, NY",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Knoxville, TN",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "McAllen-Edinburg-Mission, TX",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Baton Rouge, LA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "El Paso, TX",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Allentown-Bethlehem-Easton, PA-NJ",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "New Haven-Milford, CT",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "North Port-Sarasota-Bradenton, FL",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Oxnard-Thousand Oaks-Ventura, CA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Columbia, SC",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Dayton, OH",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Charleston-North Charleston, SC",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Boise, ID",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Stockton, CA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Cape Coral-Fort Myers, FL",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Greensboro-High Point, NC",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Colorado Springs, CO",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Lakeland-Winter Haven, FL",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Little Rock-North Little Rock-Conway, AR",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Des Moines-West Des Moines, IA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Ogden-Clearfield, UT",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Poughkeepsie-Newburgh-Middletown, NY",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Akron, OH",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Provo-Orem, UT",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Springfield, MA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Deltona-Daytona Beach-Ormond Beach, FL",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Madison, WI",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Winston-Salem, NC",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Syracuse, NY",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Durham-Chapel Hill, NC",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Wichita, KS",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Toledo, OH",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Palm Bay-Melbourne-Titusville, FL",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Augusta-Richmond County, GA-SC",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Harrisburg-Carlisle, PA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Spokane-Spokane Valley, WA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Jackson, MS",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Scranton–Wilkes-Barre, PA",
+            "value": "2500",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "7221",
+            "workersinrole": "16432",
+            "averagesalary": "$123k"
+        },
+        {
+            "name": "Chattanooga, TN-GA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Fayetteville-Springdale-Rogers, AR",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Portland-South Portland, ME",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Lancaster, PA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Modesto, CA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Lansing-East Lansing, MI",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Youngstown-Warren-Boardman, OH-PA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Fayetteville, NC",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Lexington-Fayette, KY",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Pensacola-Ferry Pass-Brent, FL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Port St. Lucie, FL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Huntsville, AL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Reno, NV",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Killeen-Temple, TX",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Santa Rosa-Petaluma, CA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Springfield, MO",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Lafayette, LA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Visalia, CA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Asheville, NC",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "York-Hanover, PA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Vallejo, CA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Santa Maria-Santa Barbara, CA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Salinas, CA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Salem, OR",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Reading, PA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Salisbury, MD-DE",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Mobile, AL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Manchester-Nashua, NH",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Fort Wayne, IN",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Brownsville-Harlingen, TX",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Corpus Christi, TX",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Gulfport-Biloxi, MS",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Savannah, GA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Flint, MI",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Canton-Massillon, OH",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Anchorage, AK",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Peoria, IL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Beaumont-Port Arthur, TX",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Shreveport-Bossier City, LA",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Naples-Marco Island, FL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Ocala, FL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Trenton-Princeton, NJ",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Montgomery, AL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Tallahassee, FL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Eugene-Springfield, OR",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Davenport-Moline-Rock Island, IA-IL",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Ann Arbor, MI",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Hickory-Lenoir-Morganton, NC",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Fort Collins, CO",
+            "value": "1700",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "4241",
+            "workersinrole": "9821",
+            "averagesalary": "$68k"
+        },
+        {
+            "name": "Huntington-Ashland, WV-KY-OH",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Lincoln, NE",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Gainesville, FL",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Greeley, CO",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Rockford, IL",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Spartanburg, SC",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Boulder, CO",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Green Bay, WI",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Clarksville, TN-KY",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Columbus, GA-AL",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Lubbock, TX",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "South Bend-Mishawaka, IN-MI",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Roanoke, VA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Evansville, IN-KY",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Kingsport-Bristol, TN-VA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Kennewick-Richland, WA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Hagerstown-Martinsburg, MD-WV",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Olympia-Lacey-Tumwater, WA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Crestview-Fort Walton Beach-Destin, FL",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Wilmington, NC",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Duluth, MN-WI",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Utica-Rome, NY",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Longview, TX",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Merced, CA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "San Luis Obispo-Paso Robles, CA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Sioux Falls, SD",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Waco, TX",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Cedar Rapids, IA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Atlantic City-Hammonton, NJ",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Bremerton-Silverdale-Port Orchard, WA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "College Station-Bryan, TX",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Amarillo, TX",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Erie, PA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Norwich-New London, CT",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Tuscaloosa, AL",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Laredo, TX",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Santa Cruz-Watsonville, CA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Lynchburg, VA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Kalamazoo-Portage, MI",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Yakima, WA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Charleston, WV",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Fargo, ND-MN",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Fort Smith, AR-OK",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Binghamton, NY",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Appleton, WI",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Prescott Valley-Prescott, AZ",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Daphne-Fairhope-Foley, AL",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Tyler, TX",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Macon-Bibb County, GA",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Topeka, KS",
+            "value": "2200",
+            "supplydemandratio": "3.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "12121",
+            "averagesalary": "$113k"
+        },
+        {
+            "name": "Barnstable Town, MA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Bellingham, WA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Rochester, MN",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Burlington-South Burlington, VT",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Lafayette-West Lafayette, IN",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Medford, OR",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Champaign-Urbana, IL",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Charlottesville, VA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Hilton Head Island-Bluffton, SC",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Las Cruces, NM",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Athens-Clarke County, GA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Lake Havasu City-Kingman, AZ",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Columbia, MO",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Lake Charles, LA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Chico, CA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Johnson City, TN",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Gainesville, GA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Yuma, AZ",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Elkhart-Goshen, IN",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Springfield, IL",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Houma-Thibodaux, LA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Jacksonville, NC",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Monroe, LA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Bend, OR",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "St. Cloud, MN",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Florence, SC",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Racine, WI",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Warner Robins, GA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Punta Gorda, FL",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "St. George, UT",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Saginaw, MI",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Billings, MT",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Terre Haute, IN",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Dover, DE",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Kingston, NY",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Bowling Green, KY",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Joplin, MO",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Yuba City, CA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Redding, CA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Jackson, TN",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "El Centro, CA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Panama City, FL",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Abilene, TX",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Iowa City, IA",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Auburn-Opelika, AL",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Muskegon, MI",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Burlington, NC",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Eau Claire, WI",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Midland, TX",
+            "value": "3500",
+            "supplydemandratio": "6.1",
+            "totaljobpostings": "24322",
+            "workersinrole": "32311",
+            "averagesalary": "$129k"
+        },
+        {
+            "name": "Hattiesburg, MS",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Greenville, NC",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Oshkosh-Neenah, WI",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Bloomington, IL",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Pueblo, CO",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "East Stroudsburg, PA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Waterloo-Cedar Falls, IA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Wausau-Weston, WI",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Blacksburg-Christiansburg, VA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Janesville-Beloit, WI",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Kahului-Wailuku-Lahaina, HI",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Sebastian-Vero Beach, FL",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Idaho Falls, ID",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Bloomington, IN",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Odessa, TX",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Jackson, MI",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Madera, CA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Homosassa Springs, FL",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "State College, PA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Grand Junction, CO",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Elizabethtown-Fort Knox, KY",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Decatur, AL",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Chambersburg-Waynesboro, PA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Monroe, MI",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Santa Fe, NM",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Vineland-Bridgeton, NJ",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Hanford-Corcoran, CA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Niles, MI",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Bangor, ME",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Logan, UT-ID",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Dothan, AL",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Florence-Muscle Shoals, AL",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Alexandria, LA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Jefferson City, MO",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Sioux City, IA-NE-SD",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Valdosta, GA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Wichita Falls, TX",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Albany, GA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Texarkana, TX-AR",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Winchester, VA-WV",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Flagstaff, AZ",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Morristown, TN",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Rocky Mount, NC",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Lebanon, PA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Dalton, GA",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Rapid City, SD",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Morgantown, WV",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Sherman-Denison, TX",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "La Crosse-Onalaska, WI-MN",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Wheeling, WV-OH",
+            "value": "4000",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "9232",
+            "workersinrole": "15121",
+            "averagesalary": "$105k"
+        },
+        {
+            "name": "Napa, CA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Harrisonburg, VA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Sumter, SC",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "The Villages, FL",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Springfield, OH",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Hammond, LA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Jonesboro, AR",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Bismarck, ND",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Manhattan, KS",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Battle Creek, MI",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Carbondale-Marion, IL",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Johnstown, PA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Mount Vernon-Anacortes, WA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Albany-Lebanon, OR",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Pittsfield, MA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Cleveland, TN",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Lawton, OK",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Glens Falls, NY",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Ames, IA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Sierra Vista-Douglas, AZ",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Staunton, VA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Mansfield, OH",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Wenatchee, WA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "San Angelo, TX",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "New Bern, NC",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Altoona, PA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Owensboro, KY",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Farmington, NM",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "St. Joseph, MO-KS",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Missoula, MT",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Lawrence, KS",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Sheboygan, WI",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Twin Falls, ID",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Goldsboro, NC",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Watertown-Fort Drum, NY",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Anniston-Oxford, AL",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Weirton-Steubenville, WV-OH",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "California-Lexington Park, MD",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Brunswick, GA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Beckley, WV",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Williamsport, PA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Michigan City-La Porte, IN",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Muncie, IN",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Longview, WA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Lewiston-Auburn, ME",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Kankakee, IL",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Ithaca, NY",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Fond du Lac, WI",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Gettysburg, PA",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Mankato, MN",
+            "value": "4250",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "23421",
+            "workersinrole": "39211",
+            "averagesalary": "$81k"
+        },
+        {
+            "name": "Grand Forks, ND-MN",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Sebring-Avon Park, FL",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Gadsden, AL",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Bay City, MI",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Decatur, IL",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Lima, OH",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Cheyenne, WY",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Hot Springs, AR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Rome, GA",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Dubuque, IA",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Victoria, TX",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Cape Girardeau, MO-IL",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Pocatello, ID",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Corvallis, OR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Ocean City, NJ",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Fairbanks, AK",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Cumberland, MD-WV",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Parkersburg-Vienna, WV",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Grants Pass, OR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Pine Bluff, AR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Great Falls, MT",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Kokomo, IN",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Midland, MI",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Elmira, NY",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Bloomsburg-Berwick, PA",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Hinesville, GA",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Columbus, IN",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Casper, WY",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Grand Island, NE",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Danville, IL",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Lewiston, ID-WA",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Walla Walla, WA",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Enid, OK",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Carson City, NV",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "San Juan-Bayamón-Caguas, PR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Aguadilla-Isabela, PR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Ponce, PR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Arecibo, PR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "San Germán, PR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Mayagüez, PR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Yauco, PR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        },
+        {
+            "name": "Guayama, PR",
+            "value": "5500",
+            "supplydemandratio": "2.6",
+            "totaljobpostings": "2421",
+            "workersinrole": "3243",
+            "averagesalary": "$45k"
+        }
+    ]
+}

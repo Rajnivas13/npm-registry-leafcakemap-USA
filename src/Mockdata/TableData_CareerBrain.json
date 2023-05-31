@@ -1,0 +1,64 @@
+{
+  "Data" : [
+   {
+     "Description": "Architecture & Engineering",
+     "Jobs2009": "64,108",
+     "Jobs2013": "82,037",
+     "LocationQuotient":"2.10"
+   },
+   {
+     "Description": "Production",
+     "Jobs2009": "163,220",
+     "Jobs2013": "197,838",
+     "LocationQuotient":"1.40"
+   },
+   {
+     "Description": "Computer & Mathematical",
+     "Jobs2009": "59,823",
+     "Jobs2013": "67,990",
+     "LocationQuotient":"1.11"
+   },
+   {
+     "Description": "Transportation & Material Moving",
+     "Jobs2009": "117,585",
+     "Jobs2013": "130,099",
+     "LocationQuotient":"0.89"
+   },
+   {
+     "Description": "Life, Physical & Social Science",
+     "Jobs2009": "14,068",
+     "Jobs2013": "15,518",
+     "LocationQuotient":"0.84"
+   },
+   {
+     "Description": "Installation, Maintenance & Repair",
+     "Jobs2009": "73,678",
+     "Jobs2013": "80,843",
+     "LocationQuotient":"0.94"
+   },
+   {
+     "Description": "Business & Financial Operations",
+     "Jobs2009": "101,707",
+     "Jobs2013": "111,087",
+     "LocationQuotient":"1.02"
+   },
+   {
+     "Description": "Building & Grounds Cleaning/Maintenance",
+     "Jobs2009": "66,174",
+     "Jobs2013": "72,050",
+     "LocationQuotient":"0.93"
+   },
+   {
+     "Description": "Management",
+     "Jobs2009": "99,195",
+     "Jobs2013": "107,690",
+     "LocationQuotient":"1.00"
+   },
+   {
+     "Description": "Health Care Support",
+     "Jobs2009": "75,250",
+     "Jobs2013": "80,835",
+     "LocationQuotient":"1.21"
+   }
+  ]
+ }

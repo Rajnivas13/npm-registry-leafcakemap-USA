@@ -1,0 +1,27 @@
+{
+    "hovertext": "This is purdue hover text which is just for testing!",
+
+    "data": [ 
+		      {
+            "name": "Corporate Liquidity",
+            "url": "https://ctpcert.afponline.org/overview/ctp-test-specifications#domain1"
+          },
+		      {
+            "name":"Capital Structure",
+            "url": "https://ctpcert.afponline.org/overview/ctp-test-specifications#domain2"
+        
+          },
+          {
+            "name": "Relationship Management",
+            "url": "https://ctpcert.afponline.org/overview/ctp-test-specifications#domain3"
+          },
+          {
+            "name": "Risk Management",
+            "url": "https://ctpcert.afponline.org/overview/ctp-test-specifications#domain4"
+          },
+          {
+            "name": "Technology",
+            "url": "https://ctpcert.afponline.org/overview/ctp-test-specifications#domain5"
+          }
+    ]
+}

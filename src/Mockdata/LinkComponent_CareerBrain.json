@@ -1,0 +1,31 @@
+{
+    "hovertext": "Knowledge domains are areas of subject matter expertise that have been curated by AFP to be relevant to certification exams that financial professions can pursue, including the Certified Corporate Financial Planning & Analysis Professional (FPAC) examination and the Certified Treasury Professional (CTP) examination.",
+
+    "data": [
+        {
+            "name":"Concepts of Business and Finance",
+            "url": "https://fpacert.afponline.org/exam/specifications#part1domaina"
+        
+          },
+          {
+            "name": "Systems and Technology",
+            "url": "https://fpacert.afponline.org/exam/specifications#part1domainb"
+          },
+          {
+            "name": "Business Partnering",
+            "url": "https://fpacert.afponline.org/exam/specifications#part1domainc"
+          },
+          {
+            "name": "Analysis and Projections",
+            "url": "https://fpacert.afponline.org/exam/specifications#part2domaina"
+          },
+          {
+            "name": "Models and Analytics",
+            "url": "https://fpacert.afponline.org/exam/specifications#part2domainb"
+          },
+          {
+            "name": "Business Communications",
+            "url": "https://fpacert.afponline.org/exam/specifications#part2domainc"
+          }
+    ]
+}
