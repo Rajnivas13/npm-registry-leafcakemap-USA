@@ -5,18 +5,12 @@ import geoJSON from '../Mockdata/USA_geo.json'
 import msaJSON from '../Mockdata/msas.json'
 import MockDataCareerBrainstate from '../Mockdata/MockData_LayercakeMap_CareerBrain_State.json'
 import msaWorkerRatio from '../Mockdata/msaWorkerRatio_CareerBrain.json'
-// import msaWorkerRatio_purdue from '../../../public/msaWorkerRatio_Purdue.json'
-// import MockData_LayercakerMap_Purdue from '../../../public/MockData_LayercakerMap_Purdue.json'
-// import MockData_LayerCakeMap_StateMapOption from '../../../public/MockData_LayerCakeMap_StateMapOption.json'
-// import MockData_LayerCakeMap_MsaMapOption from '../../../public/MockData_LayerCakeMap_MsaMapOption.json'
-// import MockData_LayerCakeMap_StateMapOptionPurdue from '../../../public/MockData_LayerCakeMap_StateMapOptionPurdue.json'
-// import MockData_LayerCakeMap_MsaMapOptionPurdue from '../../../public/MockData_LayerCakeMap_MsaMapOptionPurdue.json'
 import { Box } from '@mui/material'
 
 echarts.registerMap('StateMap', geoJSON)
 echarts.registerMap('MsaMap', msaJSON)
 
-export default function Map( {Layer,width, height,LayerCakeMapColor, LayerCakeMapStateData, LayerCakeMapMsaData}) {
+export default function LayerCakeMap( {Layer,width, height,LayerCakeMapColor, LayerCakeMapStateData, LayerCakeMapMsaData}) {
   const [showMap, SetShowMap] = useState(false)
   const [selectedState, setSelectedState] = useState(null);
 
@@ -92,6 +86,12 @@ export default function Map( {Layer,width, height,LayerCakeMapColor, LayerCakeMa
   
   //@ts-ignore
   let msaOption = {
+    title: {
+      text: 'Workforce Size and workers / posting by Location',
+      subtext: 'Data from emsibg',
+      sublink: 'http://www.census.gov/popest/data/datasets.html',
+      left: 'right',
+    },
     tooltip: {
       trigger: 'item',
       showDelay: 0,
@@ -609,14 +609,14 @@ export default function Map( {Layer,width, height,LayerCakeMapColor, LayerCakeMa
               option={stateOption}
               notMerge={false}
               lazyUpdate={true}
-              style={{ width: '50%', height: '400px' }}
+              style={style}
             />
           ) : (
             <ReactECharts
               option={msaOption}
               notMerge={false}
               lazyUpdate={true}
-              style={{ width: '50%', height: '400px' }}
+              style={style}
             />
           )}
         </Box>
